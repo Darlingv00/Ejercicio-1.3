@@ -1,0 +1,36 @@
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Viows\PageInicial.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Viows\PagePersonas.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Viows\PageResultado.xaml.g.cs
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.dll
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\refint\Ejercicio3.dll
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.pdb
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\bin\Debug\netstandard2.0\Ejercicio3.deps.json
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\bin\Debug\netstandard2.0\Ejercicio3.dll
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\bin\Debug\netstandard2.0\Ejercicio3.pdb
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\Tareas de Rad\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\ref\Ejercicio3.dll
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\bin\Debug\netstandard2.0\Ejercicio3.deps.json
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\bin\Debug\netstandard2.0\Ejercicio3.dll
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\bin\Debug\netstandard2.0\Ejercicio3.pdb
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.csproj.AssemblyReference.cache
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.AssemblyInfo.cs
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.dll
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\refint\Ejercicio3.dll
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Ejercicio3.pdb
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\ref\Ejercicio3.dll
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Views\PageInicial.xaml.g.cs
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Views\PagePersonas.xaml.g.cs
+C:\Ejercicio 1.3\Ejercicio3\Ejercicio3\obj\Debug\netstandard2.0\Views\PageResultado.xaml.g.cs
